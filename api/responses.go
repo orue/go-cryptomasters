@@ -8,7 +8,7 @@ type CEXResponse struct {
 	Volume                string  `json:"volume"`
 	Volume30D             string  `json:"volume30d"`
 	Bid                   float64 `json:"bid"`
-	Ask                   int     `json:"ask"`
+	Ask                   float64 `json:"ask"`
 	PriceChange           string  `json:"priceChange"`
 	PriceChangePercentage string  `json:"priceChangePercentage"`
 	Pair                  string  `json:"pair"`
