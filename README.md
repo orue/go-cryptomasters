@@ -1,2 +1,1 @@
 # go-cryptomasters
-# go-cryptomasters
